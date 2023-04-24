@@ -1,0 +1,22 @@
+h1 {
+    font-size: 42px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+header {
+    font-family: monospace;
+    text-align: center;
+}
+
+body {
+    font-family: monospace;
+    padding-left: 25px;
+}
